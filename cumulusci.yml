@@ -1,0 +1,25 @@
+minimum_cumulusci_version: '3.0.1'
+project:
+    name: EnhancedLeadConversion
+    package:
+        name:  EnhancedLeadConversion
+        api_version: '46.0'
+    dependencies:
+        - github: 'https://github.com/SalesforceFoundation/Cumulus'
+
+tasks:
+    robot:
+        options:
+            suites: robot/EnhancedLeadConversion/tests
+            options:
+                outputdir: robot/EnhancedLeadConversion/results
+
+    robot_testdoc:
+        options:
+            path: robot/EnhancedLeadConversion/tests
+            output: robot/EnhancedLeadConversion/doc/EnhancedLeadConversion_tests.html
+
+flows:
+    config_qa:
+        1.1:
+            task: deploy_qa_config
