@@ -12,6 +12,7 @@ NPSP currently uses a custom Lead Conversion page to help orgs who are using Hou
 * There is currently no ability to map Lead fields to fields on the Affiliated Account.
 * Checking a box to NOT create an Opportunity is counterintuitive.
 * There's no way to select which Record Type should be used for created Opportunities.
+
 We want to add additional functionality to Lead Conversion that isn't currently available in the existing NPSP functionality. Specifically, we will be looking to add:
 * The ability to map Account fields to either the Contact's direct Account or the Contact's Affiliated Account
 * The ability to specify a Record Type for created Opportunities
