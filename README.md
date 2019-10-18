@@ -11,15 +11,16 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 We want to add additional functionality to Lead Conversion that isn't currently available in the existing NPSP functionality. Specifically, we will be looking to add:
 * The ability to map Account fields to either the Contact's direct Account or the Contact's Affiliated Account
 * The ability to specify a Record Type for created Opportunities
+* Hiding irrelevant fields based on selections
 
 This additional functionality will help NPSP users who use Leads extensively.
 
 ### Project Resources
-* Indicate if there are any existing Hub Ideas, or product Issues/Bugs that you're solving for. 
-* Where can we find additional information on your project? Ie. do you have supporting code in another Repo, do you have documentation in Google, your repo's Wiki, etc.? Be sure to include (or at least links to) all supporting material here. If it's not in your project Repo, it will get lost.
+* We have created a mock-up of an ideal lead conversion screen as well as a process flow. Both of these resources are stored in the Images folder
+* User Stories are captured in the Wiki
 
 ### Project Team Accomplishments
-What did the Project Team accomplished during the Sprint?
+* We wrote user stories capturing the requirements. We created a mock-up and process flow.
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 Often, it takes multiple Sprints to contribute an idea back into the Community. What happens at a Sprint does not stay at a Sprint! If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?<br><br>
