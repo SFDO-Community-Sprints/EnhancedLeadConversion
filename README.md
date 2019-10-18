@@ -5,7 +5,7 @@ Enhanced Lead Conversion
 Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
 * Team Leader(s): Sarah Joseph
 * GitHub Scribe(s): Josh Kidd
-* List of all Contributors: Tamara Vose, Kathryn Battista
+* List of all Contributors: Tamara Vose, Kathryn Battista, Clayton Goss
 
 ### Project Vision (Your first task as a team)
 We want to add additional functionality to Lead Conversion that isn't currently available in the existing NPSP functionality. Specifically, we will be looking to add:
