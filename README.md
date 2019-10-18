@@ -23,7 +23,4 @@ This additional functionality will help NPSP users who use Leads extensively.
 * We wrote user stories capturing the requirements. We created a mock-up and process flow.
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
-Often, it takes multiple Sprints to contribute an idea back into the Community. What happens at a Sprint does not stay at a Sprint! If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?<br><br>
-* What is your project's Roadmap?
-
-**Important**: If you have specific asks to help move this project forward we would recommend that you list them here, but also create separate Issues for each and add the label of "help wanted". This is a well-worn best practice for projects living in GitHub.
+The changes described in the User Stories should be incorporated into the NPSP core code. The work here will need to be evaluated by the Product Owner for possible inclusion.
